@@ -1,6 +1,6 @@
 # React Shopping Cart
 
-### [Demo Link](https://react-shopping-cart-project.netlify.app/) 🔗
+### [Demo Link]() 🔗
 
 **Shopping Cart Project** built with **React JS**, using **Context API** & **useReducer Hook**.
 
@@ -19,13 +19,6 @@
 - #### **React JS**
 - #### **SASS**
 
-<br/>
-
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
-
-<br/>
 
 ## Available Scripts:
 
